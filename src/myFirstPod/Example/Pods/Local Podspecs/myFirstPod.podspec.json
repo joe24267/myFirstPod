@@ -1,0 +1,22 @@
+{
+  "name": "myFirstPod",
+  "version": "0.1.0",
+  "summary": "A short description of myFirstPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/joe/myFirstPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "joe": "joe24267@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/joe/myFirstPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "myFirstPod/Classes/**/*"
+}
